@@ -1,5 +1,8 @@
 source "https://rubygems.org"
+gem 'tzinfo-data', platforms: [:mingw,
+
 gem 'pry-rails'
+gem 'devise'
 
 ruby "3.2.0"
 
