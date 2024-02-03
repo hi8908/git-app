@@ -1,6 +1,8 @@
 source "https://rubygems.org"
+gem 'tzinfo-data', platforms: [:mingw,
+
+gem 'pry-rails'
 gem 'devise'
-git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby "3.2.0"
 
